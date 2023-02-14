@@ -1,9 +1,9 @@
 # HashGame Console Application
 
-## Developed with C#
+## Projeto Desenvolvido com a linguagem de programação C#
 
-Shows a menu that creates a new game or exits the console
+Mostra um menu para criar um novo jogo ou sair do console.
 
-By creating a new game, you are able to choose line and column to play in your turn.
+Ao criar um novo jogo, escolher a linha e a coluna para marcar a sua jogada.
 
-Player1 is 'X' and Player2 is 'O'
+Jogador1 é 'X' e Jogador2 é 'O'
